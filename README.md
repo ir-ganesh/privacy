@@ -7,9 +7,10 @@ GeoTrivia does not collect, store, or transmit any personal information that ide
 2. Location Data Usage
 GeoTrivia uses your device’s current location to enhance your trivia experience. The location data is:
 
-Accessed only while the app is in use.
-Not stored or retained beyond the session.
-Not shared with third-party entities, except Google services used for map-related functionalities.
+* Accessed only while the app is in use.
+* Not stored or retained beyond the session.
+* Not shared with third-party entities, except Google services used for map-related functionalities.
+
 3. Data Transmission
 GeoTrivia transmits only device location data to Google services (e.g., Maps API) to improve location-based trivia experiences. No location history, user identifiers, or other data are shared beyond the core functionality.
 
